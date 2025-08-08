@@ -5,8 +5,8 @@
 
 <h1 align="center">Hasty Head LTD</h1>
 <p align="center">
-  <b>Elevating Web & App Development</b><br/>
-  London-based engineering team building fast, scalable, and beautiful digital products.
+  <b>Full-Service Digital Agency</b><br/>
+  Hasty Head Ltd is a London-based full-service agency specializing in branding, design, and development. We craft impactful digital experiences that elevate businesses across the globe.
 </p>
 
 <p align="center">
