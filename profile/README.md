@@ -59,7 +59,7 @@
 3. Build in weekly iterations with demos and async updates.
 
 ### Contact
-- 📍 United Kingdom (remote-first)
+- 📍 United Kingdom 
 - ✉️ hello@hastyheadltd.com
 - 🌐 https://hastyheadltd.com
 - 🎥 TikTok: @hastyheadltd • 𝕏: @HastyHeadLtd
